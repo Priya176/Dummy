@@ -1,1 +1,1 @@
-print("I love samosas)
+print("I love chocolates)
